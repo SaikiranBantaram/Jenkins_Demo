@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Java");
         System.out.println("Output from java program");
         System.out.println(new Date());
+        System.out.println("Hello");
     }
 }
